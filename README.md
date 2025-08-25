@@ -29,7 +29,7 @@ Change Calculator is an application that finds the exact change of dollars and c
     ```
 
 ## Tech Stack
-- **Frontend:** React
+- **Frontend:** React, Bootstrap
 - **Deployment:** Vercel
 
 ## Screenshots
