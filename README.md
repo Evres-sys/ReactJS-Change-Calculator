@@ -1,8 +1,33 @@
-# React + Vite
+# Change Calculator Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Change Calculator is an application that finds the exact change of dollars and cents after inputting a cost value and a payment value.
 
-Currently, two official plugins are available:
+## Features
+- Automatically calculates the required amount of change
+- Filters change through separate dollar bills and cents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Demo
+**Live Site:** [react-js-change-calculator.vercel.app](https://react-js-change-calculator.vercel.app/)
+**GitHub Repo:** [Evres-sys/ReactJS-Change-Calculator](https://github.com/Evres-sys/ReactJS-Change-Calculator)
+
+## Installation / Setup
+1. Clone the repository:
+    ```bash git clone https://github.com/Evres-sys/ReactJS-Change-Calculator.git```
+2. Navigate into the project folder:
+    ```cd ReactJS-Change-Calculator```
+3. Install dependencies:
+    ```npm install```
+4. Start the development server:
+    ```npm start```
+
+## Tech Stack
+- **Frontend:** React
+- **Deployment:** Vercel
+
+## Screenshots
+![Home Page](.\screenshots\HomePage.png)
+
+## License
+This project is licensed under the [MIT License](./LICENSE).
+
